@@ -7,6 +7,18 @@
  */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 @import "https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,600,700|Open+Sans:300,400,700|Roboto:300,400";
+@font-face {
+  font-family: 'HammerFat';
+  src: url("../fonts/hammerfat.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HammerThin';
+  src: url("../fonts/hammerthin.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -12484,8 +12496,6 @@ body.vmenu .container {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -12494,8 +12504,9 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'HammerThin', sans-serif;
   color: #312f2f;
+  letter-spacing: 2px;
 }
 
 h1.invert,
@@ -12508,7 +12519,7 @@ h5.invert {
 
 h1 {
   font-size: 68px;
-  letter-spacing: 0.1px;
+/*   letter-spacing: 0.1px; */
   margin-bottom: 15px;
   text-transform: uppercase;
   font-weight: 600;
