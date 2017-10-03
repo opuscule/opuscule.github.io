@@ -12579,7 +12579,7 @@ p.clientinfo {
 
 p b {
   font-weight: 400;
-  color: #70c8d4;
+  color: #70312D;
   letter-spacing: 0.2px;
 }
 
@@ -12997,7 +12997,7 @@ form .btn {
 
 .navbar-brand:before {
   content: "";
-  background-color: #70c8d4;
+  background-color: #70312D;
   width: 250px;
   height: 3px;
   position: absolute;
@@ -13060,7 +13060,7 @@ form .btn {
   display: block;
   position: absolute;
   bottom: 3px;
-  background-color: #70c8d4;
+  background-color: #70312D;
   transition: width 0.5s ease;
 }
 
@@ -13515,7 +13515,7 @@ form .btn {
   display: block;
   position: absolute;
   bottom: 0;
-  background-color: #70c8d4;
+  background-color: #70312D;
   transition: width 0.5s ease;
 }
 
@@ -15336,6 +15336,16 @@ form.newsletter-form .btn {
     width: 1280px;
     max-width: 100%;
   }
+}
+
+.hpicon .fa {
+	font-size: 24px; display:block; text-align: center; background-color: #70312D; border-radius: 50%; height: 40px; width: 40px; color: #ffffff; line-height: 40px; float: left; margin-right: 12px;
+}
+.hpicon h3 {
+	font-size: 24px; font-family: 'HammerFat', sans-serif; letter-spacing: 0; margin-top: 6px;
+}
+.clear5 {
+	display:block; clear: both; height: 5px;
 }
 
 #blog-photo-post1 {
