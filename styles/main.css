@@ -14892,7 +14892,7 @@ form .btn {
 }
 
 .grid-item__rollover .tagsinfo {
-  color: #70c8d4;
+  color: #70312D;
   font-weight: 400;
   letter-spacing: 0.8px;
 }
@@ -15338,48 +15338,13 @@ form.newsletter-form .btn {
   }
 }
 
-.hpicon .fa {
-	font-size: 24px; display:block; text-align: center; background-color: #70312D; border-radius: 50%; height: 40px; width: 40px; color: #ffffff; line-height: 40px; float: left; margin-right: 12px;
-}
-.hpicon h3 {
-	font-size: 24px; font-family: 'HammerFat', sans-serif; letter-spacing: 0; margin-top: 6px;
+.hp h3 {
+	font-size: 34px; font-family: 'HammerThin', sans-serif; letter-spacing: 1px;
 }
 .clear5 {
 	display:block; clear: both; height: 5px;
 }
-
-#blog-photo-post1 {
-  background-image: url("../images/demo/blog/blog-post1.jpg");
-}
-
-#blog-photo-post2 {
-  background-image: url("../images/demo/blog/blog-post2.jpg");
-}
-
-#blog-photo-post3 {
-  background-image: url("../images/demo/blog/blog-post3.jpg");
-}
-
-#post1-intro-slider {
-  background-image: url("../images/demo/blog/image-post-1.jpg");
-}
-
-#post1-comments1 {
-  background-image: url("../images/demo/blog/author1.jpg");
-}
-
-#post1-comments2 {
-  background-image: url("../images/demo/blog/author2.jpg");
-}
-
-#post1-comments3 {
-  background-image: url("../images/demo/blog/author3.jpg");
-}
-
-#post1-comments4 {
-  background-image: url("../images/demo/blog/author4.jpg");
-}
-
+.new-york h2 { font-size: 40px; text-transform: none; letter-spacing: 1px; margin-bottom: 15px; }
 .content-page {
   padding-top: 60px;
   background-color: transparent;
