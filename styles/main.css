@@ -5890,7 +5890,7 @@ a.bg-danger:focus, a.bg-danger:hover {
 }
 
 a.bg-inverse:focus, a.bg-inverse:hover {
-  background-color: #101112 !important;
+  background-color: #70312D !important;
 }
 
 .border-0 {
@@ -12836,7 +12836,7 @@ img {
 }
 
 .btn-inverse:hover, .btn-inverse:active, .btn-inverse:focus {
-  background-color: #312f2f;
+  background-color: #70312D;
   color: #ffffff;
   border-color: #312f2f;
   box-shadow: none;
@@ -12864,8 +12864,8 @@ img {
 }
 
 .btn-featured-inverse:hover, .btn-featured-inverse:active, .btn-featured-inverse:focus {
-  background-color: #70c8d4;
-  border-color: #70c8d4;
+  background-color: #70312D;
+  border-color: #70312D;
   color: #ffffff;
   box-shadow: none;
 }
@@ -12941,7 +12941,7 @@ form .btn {
 }
 
 .separator.accent {
-  background-color: #70c8d4;
+  background-color: #70312D;
 }
 
 .line {
