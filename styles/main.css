@@ -5890,7 +5890,7 @@ a.bg-danger:focus, a.bg-danger:hover {
 }
 
 a.bg-inverse:focus, a.bg-inverse:hover {
-  background-color: #70312D !important;
+  background-color: #EA638C !important;
 }
 
 .border-0 {
@@ -12579,18 +12579,18 @@ p.clientinfo {
 
 p b {
   font-weight: 400;
-  color: #70312D;
+  color: #EA638C;
   letter-spacing: 0.2px;
 }
 
 p a {
-  color: #999999;
+  color: #EA638C;
   text-decoration: none;
 }
 
 p a:hover {
-  color: #70c8d4;
-  text-decoration: none;
+  color: #EA638C;
+  text-decoration: underline;
 }
 
 ul.unstyle {
@@ -12635,7 +12635,7 @@ ul li span {
 }
 
 .big-h2.accentcolor {
-  color: #70c8d4;
+  color: #EA638C;
 }
 
 .big-h3 {
@@ -12744,7 +12744,7 @@ img {
 }
 
 .social-icons a:hover {
-  color: #70c8d4;
+  color: #EA638C;
 }
 
 .vmenu .social-icons {
@@ -12836,15 +12836,15 @@ img {
 }
 
 .btn-inverse:hover, .btn-inverse:active, .btn-inverse:focus {
-  background-color: #70312D;
+  background-color: #EA638C;
   color: #ffffff;
   border-color: #312f2f;
   box-shadow: none;
 }
 
 .btn-featured {
-  background-color: #70c8d4;
-  border-color: #70c8d4;
+  background-color: #EA638C;
+  border-color: #EA638C;
   color: #ffffff;
   border-width: 2px;
 }
@@ -12864,8 +12864,8 @@ img {
 }
 
 .btn-featured-inverse:hover, .btn-featured-inverse:active, .btn-featured-inverse:focus {
-  background-color: #70312D;
-  border-color: #70312D;
+  background-color: #EA638C;
+  border-color: #EA638C;
   color: #ffffff;
   box-shadow: none;
 }
@@ -12883,7 +12883,7 @@ img {
 .loadmore span {
   margin: 20px 0;
   cursor: pointer;
-  border-bottom: 2px solid #70c8d4;
+  border-bottom: 2px solid #EA638C;
   display: inline-block;
 }
 
@@ -12941,7 +12941,7 @@ form .btn {
 }
 
 .separator.accent {
-  background-color: #70312D;
+  background-color: #EA638C;
 }
 
 .line {
@@ -12997,7 +12997,7 @@ form .btn {
 
 .navbar-brand:before {
   content: "";
-  background-color: #70312D;
+  background-color: #EA638C;
   width: 250px;
   height: 3px;
   position: absolute;
@@ -13043,7 +13043,7 @@ form .btn {
 
 .navbar li .dropdown-item.active,
 .navbar li .dropdown-item:active {
-  background-color: #70c8d4;
+  background-color: #EA638C;
   color: #312f2f;
 }
 
@@ -13060,7 +13060,7 @@ form .btn {
   display: block;
   position: absolute;
   bottom: 3px;
-  background-color: #70312D;
+  background-color: #EA638C;
   transition: width 0.5s ease;
 }
 
@@ -13350,7 +13350,7 @@ form .btn {
 
 .overlay ul li a:hover,
 .overlay ul li a:focus {
-  color: #70c8d4;
+  color: #EA638C;
   border-bottom: none;
   text-decoration: none;
 }
@@ -13515,7 +13515,7 @@ form .btn {
   display: block;
   position: absolute;
   bottom: 0;
-  background-color: #70312D;
+  background-color: #EA638C;
   transition: width 0.5s ease;
 }
 
@@ -13577,7 +13577,7 @@ form .btn {
   width: 50px;
   height: 2px;
   margin: 31px 0 0 2px;
-  background-color: #70c8d4;
+  background-color: #EA638C;
 }
 
 .blog-post-intro {
@@ -14892,7 +14892,7 @@ form .btn {
 }
 
 .grid-item__rollover .tagsinfo {
-  color: #70312D;
+  color: #EA638C;
   font-weight: 400;
   letter-spacing: 0.8px;
 }
