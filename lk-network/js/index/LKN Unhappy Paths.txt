@@ -1,0 +1,61 @@
+What if can’t match user to credit pull?
+for what situations must we show/send AAN?
+
+
+user lands on network page
+ - if cookie is set that user already created account, ask, “Been here before? Enter your user name and password to continue.” take user to filters
+	- if soft pull was done within last 30 days - take to filters
+	- if soft pull was done after that, modal to refresh numbers
+
+ - if cookie is set, do not show on boarding tutorial
+	- else, show tutorial
+
+ - if connection to servers aren’t working
+	- explain to user that connections are down
+	- show nation wide vendor
+
+ - if kick-off answers are set, return data
+ - if not, show modal and ask for kick-off answers
+	- if school isn’t available, “Cannot find your school? Not all educational institutions participate in or are eligible for our program. Unfortunately, we’re not able to accept a loan application if your school is not on our eligibility list.”
+	- if zip code is not part of united states, show message
+
+
+
+
+ - if requested amount is too high
+	- explain that amount is too high
+	- offer check with a lesser amount
+
+ - if requested amount is too low
+	- explain that amount is too low
+	- ask if user entered total amount from federal & private
+
+ - if no lenders in zip code
+	- explain no participating lenders in your area
+	- ask if user would like to submit email address to be notified
+
+ - if no lenders available on citizenship status
+	- explain no participating lenders in your area
+	- ask if user would like to submit email address to be notified
+
+ - if no lenders available on degree achieved
+	- explain no participating lenders support that type of degree
+	- ask if user would like to submit email address to be notified
+
+ - if graduation date is today or in future
+	- explain this program is for refinancing student loans
+	- link to private student loan
+
+ - if annual income is too low
+	- explain that annual income is below threshold 
+	- show definition of income
+
+ - if email address matches existing user
+	- ask user to log in
+	- if user profile doesn’t have soft pull, take to that step
+	- if they have done soft pull
+		- if soft pull has been done within last 30 days, take to filters
+		- if not, modal to re pull
+
+
+
