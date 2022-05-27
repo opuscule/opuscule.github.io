@@ -1,13 +1,15 @@
 ---
 title: Verinovum
-tags: ["portfolio", "featured", "WordPress"]
 thumbnailimage: /images/Verinovum-tn.jpg
-thumbnailwebp: /images/Verinovum-tn.jpg.webp
+tags:
+  - WordPress
 image: /images/verinovum-careers.jpg
-webp: /images/verinovum-careers.jpg.webp
-linktoproject: "https://www.verinovum.com/"
+linktoproject: https://www.verinovum.com/
 titleTag: Verinovum Website Development - Opuscule, LLC
-metaDescription: In another partnership with Envision Health, Opuscule worked with the team at Verinovum to design and develop a new website for them.
+thumbnailwebp: /images/Verinovum-tn.jpg.webp
+metaDescription: In another partnership with Envision Health, Opuscule worked
+  with the team at Verinovum to design and develop a new website for them.
+webp: /images/verinovum-careers.jpg.webp
 ---
 
 In another partnership with Envision Health, Opuscule worked with the team at Verinovum to design and develop a new website for them. These brilliant thinkers work to deliver the Data Enrichment and Integration technology solutions that healthcare leaders need to serve their patients and communities. Confused? So were we, until they broke it down over a phone call.
