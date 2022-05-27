@@ -1,6 +1,5 @@
 ---
 title: Touch Screen Guru
-date: 2021-05-25T17:47:36.213Z
 thumbnailimage: /images/tsg-tn.jpg
 tags:
   - WordPress

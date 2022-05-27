@@ -30,5 +30,5 @@ collections:
       - {label: "Additional Image", name: "addlimage", widget: "image", required: "false"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Link to Project", name: "linktoproject", widget: "string"}
-      - {label: "Title Tag", name: "titletag", widget: "string"}
-      - {label: "Meta Description", name: "metadescription", widget: "text"}
+      - {label: "Title Tag", name: "titleTag", widget: "string"}
+      - {label: "Meta Description", name: "metaDescription", widget: "text"}

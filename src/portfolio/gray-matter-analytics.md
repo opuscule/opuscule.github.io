@@ -6,8 +6,8 @@ tags:
 image: /images/gma-home-page.jpeg
 addlimage: /images/gma-buttons.jpeg
 linktoproject: https://www.graymatteranalytics.com/
-titletag: Gray Matter Analytics for Payors & Providers
-metadescription: When Gray Matter Analytics sent Opuscule an RFP, they said,
+titleTag: Gray Matter Analytics for Payors & Providers
+metaDescription: When Gray Matter Analytics sent Opuscule an RFP, they said,
   “currently, our website appears dated and there is an abundance of irrelevant
   data.” We worked with them to understand their users and establish goals &
   KPIs.

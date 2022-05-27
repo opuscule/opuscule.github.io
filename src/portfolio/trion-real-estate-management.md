@@ -4,7 +4,7 @@ tags: ["portfolio", "featured", "SEO"]
 image: /images/trionmanagement.png
 webp: /images/trionmanagement.png.webp
 imageAlt: Trion Real Estate Management
-projectLink: "https://trionmanagement.com/"
+linktoproject: "https://trionmanagement.com/"
 titleTag: Trion Real Estate Management - Opuscule, LLC
 metaDescription: Each month we are diligently tracking keyword positioning, visitors, bounce rate and dozens of other matrices to positive success. Further, we are making HTML and site load improvements every day.
 ---
