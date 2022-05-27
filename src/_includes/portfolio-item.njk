@@ -17,7 +17,10 @@ layout: 'base.njk'
 			<div class="voffset-30"></div>
 			<p><a href="{{ projectLink }}" target="_blank" class="btn btn-featured-inverse">Launch Project</a></p>
 			<div class="voffset-30 voffset-lg-50"></div>
-			<p class="clientinfo">Web Design, WordPress</p>
+			<p class="clientinfo">{% for item in tags %}
+				{{ item }}
+				{% endfor %}
+			</p>
 		  </div>
 		  
 		  <div class="col-md-6">

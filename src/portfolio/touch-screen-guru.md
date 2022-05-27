@@ -6,7 +6,6 @@ tags:
   - WordPress
 image: /images/tsg.png
 addlimage: /images/tsg-tn.jpg
-imageAlt: Screenshot
 linktoproject: https://touchscreenguru.com/
 titletag: eCommerce Website for Touch Screen Monitors
 metadescription: The touch screen monitor experts at Touch Screen Guru came to
