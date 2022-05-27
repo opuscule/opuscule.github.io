@@ -6,7 +6,7 @@ services:
   - WordPress
 image: /images/nfl.jpeg
 linktoproject: https://nflonlocation.com/
-titleTag: NFL OnLocation | Website Design & Development
+titleTag: NFL OnLocation Experiences | Website Design & Development
 metaDescription: Our experts built custom WordPress plugins, providing
   next-level flexibility for the advertising team at Vaudeville Ventures.
 ---
