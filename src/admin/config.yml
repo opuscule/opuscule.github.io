@@ -32,3 +32,4 @@ collections:
       - {label: "Link to Project", name: "linktoproject", widget: "string"}
       - {label: "Title Tag", name: "titleTag", widget: "string"}
       - {label: "Meta Description", name: "metaDescription", widget: "text"}
+      - {label: "Tags", name: "tags", widget: "list"}
