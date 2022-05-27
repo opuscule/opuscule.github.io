@@ -3,6 +3,7 @@ title: Gray Matter Analytics
 thumbnailimage: /images/gma-tn.jpeg
 tags:
   - WordPress
+  - SEO
 image: /images/gma-home-page.jpeg
 addlimage: /images/gma-buttons.jpeg
 linktoproject: https://www.graymatteranalytics.com/
