@@ -25,7 +25,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Thumbnail", name: "thumbnailimage", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Services", name: "services", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Additional Image", name: "addlimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}

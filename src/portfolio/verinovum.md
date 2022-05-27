@@ -1,9 +1,10 @@
 ---
 title: Verinovum
 thumbnailimage: /images/Verinovum-tn.jpg
-tags:
+services:
   - WordPress
   - SEO
+tags: portfolio
 image: /images/verinovum-careers.jpg
 linktoproject: https://www.verinovum.com/
 titleTag: Verinovum Website Development - Opuscule, LLC

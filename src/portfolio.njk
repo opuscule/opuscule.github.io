@@ -46,17 +46,17 @@ metaDescription: Check out Opuscule's portfolio of successful projects and happy
     <div class="container">
 
         <div class="row">
-          <div class="grid-gallery columns-3">
+          <div class="grid-gallery columns-4">
             
             {%- for post in collections.portfolio | reverse -%}
             
-            <div class="grid-item {% for item in post.data.tags %} {{ item }} {% endfor %}">
+            <div class="grid-item {% for item in post.data.services %} {{ item }} {% endfor %}">
               <img src="{{ post.data.thumbnailimage }}" alt="{{ post.data.title }}">
               <div class="grid-item__rollover">
                   <a href="{{ post.url }}">
                     <div class="containertext">
                       <div class="titleinfo">{{ post.data.title }}</div>
-                      <div class="tagsinfo">{% for item in post.data.tags %} {{ item }} {% endfor %}</div>
+                      <div class="tagsinfo">{% for item in post.data.services %} {{ item }} {% endfor %}</div>
                     </div>
                   </a>
               </div>
