@@ -1,0 +1,33 @@
+---
+layout: 'base.njk'
+---
+
+
+	<div class="section">
+	  <div class="container">
+		<div class="row">
+		  <div class="col-md-6">
+			
+			<div class="voffset-80 voffset-lg-110"></div>
+			
+			<h2>{{ title }}</h2>
+			<span class="separator accent"></span>
+			<div class="voffset-30"></div>
+			{{ content | safe }}
+			<div class="voffset-30"></div>
+			<p><a href="{{ projectLink }}" target="_blank" class="btn btn-featured-inverse">Launch Project</a></p>
+			<div class="voffset-30 voffset-lg-50"></div>
+			<p class="clientinfo">Web Design, WordPress</p>
+		  </div>
+		  
+		  <div class="col-md-6">
+			  <div class="voffset-80 voffset-lg-110"></div>
+			<img src="{{ image }}" alt="{{ imageAlt }}" class="img-responsive portfolioOutline">
+
+		  </div><!-- .6 -->
+		</div>
+
+	  </div>
+	  <div class="voffset-100 voffset-lg-200"></div>
+	</div>
+
