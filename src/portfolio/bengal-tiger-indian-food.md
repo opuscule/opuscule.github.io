@@ -5,9 +5,9 @@ services:
   - Design
 image: /images/bengaltiger.jpg
 linktoproject: https://www.bengaltigerindianfood.com/
-titleTag: Website for Indian Restaurant in Manhattan
-metaDescription: If you’re in the neighborhood, climb the stairs to their
-  unassuming second-floor location and feast!
+titleTag: Bengal Tiger Indian Food | Restaurant Web Design & Development | Small Business
+metaDescription: The five-star Indian food restaurant needed an equally as
+  impressive website, and Opuscule was happy to oblige.
 ---
 Even though we share the same city, Opuscule hasn’t personally met the owners of Bengal Tiger Indian Food. That doesn’t mean we haven’t had their delicious food and share as much praise as the [1,164 Yelp reviews](https://www.yelp.com/biz/bengal-tiger-indian-food-new-york) (and counting).
 
