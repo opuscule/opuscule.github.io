@@ -1,12 +1,10 @@
 ---
 title: Gray Matter Analytics
-date: 2018-05-15T19:24:05.270Z
 thumbnailimage: /images/gma-tn.jpeg
 tags:
   - WordPress
 image: /images/gma-home-page.jpeg
 addlimage: /images/gma-buttons.jpeg
-imageAlt: Gray Matter Analytics
 linktoproject: https://www.graymatteranalytics.com/
 titletag: Gray Matter Analytics for Payors & Providers
 metadescription: When Gray Matter Analytics sent Opuscule an RFP, they said,

@@ -24,7 +24,6 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Thumbnail", name: "thumbnailimage", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
