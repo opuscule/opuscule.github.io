@@ -4,7 +4,6 @@ thumbnailimage: /images/tsg-tn.jpg
 services:
   - WordPress
   - SEO
-tags: portfolio
 image: /images/tsg.png
 addlimage: /images/tsg-tn.jpg
 linktoproject: https://touchscreenguru.com/
@@ -12,6 +11,7 @@ titleTag: eCommerce Website for Touch Screen Monitors
 metaDescription: The touch screen monitor experts at Touch Screen Guru came to
   Opuscule with a logo, a bunch of specs, some images, and a dream! We worked
   with the team to design a flexible site to help with lead generation.
+tags: portfolio
 ---
 The touch screen monitor experts at Touch Screen Guru came to Opuscule with a logo, a bunch of specs, some images, and a dream! We worked with the team to design a flexible site to help with lead generation.
 
