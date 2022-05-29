@@ -48,7 +48,7 @@ metaDescription: Check out Opuscule's portfolio of successful projects and happy
         <div class="row">
           <div class="grid-gallery columns-4">
             
-            {%- for post in collections.portfolio | reverse -%}
+            {%- for post in collections.portfolio -%}
             
             <div class="grid-item {% for item in post.data.services %} {{ item }} {% endfor %}">
               <img src="{{ post.data.thumbnailimage }}" alt="{{ post.data.title }}">

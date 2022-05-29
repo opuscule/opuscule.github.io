@@ -12448,7 +12448,7 @@ body.vmenu .container {
 }
 
 body {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
 }
 
 h1,
@@ -12493,7 +12493,8 @@ h4 {
 }
 
 p {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
   font-size: 1.125rem;
   color: #2b2b2b;
   line-height: 1.55;
@@ -12847,7 +12848,8 @@ form {
 
 form .btn {
   margin-top: 30px;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
   cursor: pointer;
   background-color: rgba(255,255,255,0);
   border-color: #312f2f;
@@ -12976,7 +12978,8 @@ form .btn {
   font-size: 1em;
   transition: color 0.5s ease;
   position: relative;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
   letter-spacing: 1px;
 }
 
@@ -13373,7 +13376,8 @@ form .btn {
 }
 
 .footer-site p {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
   font-size: 0.92em;
   color: #777777;
 }
